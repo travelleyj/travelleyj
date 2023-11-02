@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there
+
+## I am a Year 2 Information Technology student at Ngee Ann Polytechnic.
+
+# Programming Languages I learned
+- Python
+- C#
+- PHP
+
+# Applications I have used
+- Visual Studio
+- Cisco Packet Tracer
+- Microsoft SQL Server Management
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Tableau
+- Power BI
 
 <!--
 **travelleyj/travelleyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
