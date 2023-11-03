@@ -1,15 +1,13 @@
-### Hi there
-
-## Short Introduction about me!
+# Hi, this is a Short Introduction about me!
 I am a Year 2 Information Technology student at Ngee Ann Polytechnic.
 I play computer games to de-stress, and I would call it a hobby since I enjoy playing games.
 
-# Programming Languages I learned
+## Programming Languages I learned
 - Python
 - C#
 - PHP
 
-# Applications I have used
+## Applications I have used
 - Visual Studio
 - Cisco Packet Tracer
 - Microsoft SQL Server Management
