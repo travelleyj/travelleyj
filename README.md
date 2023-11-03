@@ -1,5 +1,5 @@
 # Hi, this is a Short Introduction about me!
-I am a Year 2 Information Technology student at Ngee Ann Polytechnic.
+My name is Travelle Yeo and I am a Year 2 Information Technology student at Ngee Ann Polytechnic.
 I play computer games to de-stress, and I would call it a hobby since I enjoy playing games.
 
 ## Programming Languages I learned
