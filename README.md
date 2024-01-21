@@ -15,7 +15,12 @@ Year 2 student at Ngee Ann Poly specializing in coding, cybersecurity, and data 
 - Adobe XD
 - Tableau
 - Power BI
+- Jupyter Notebook
+- Xamp
 
+  ## What I am working on right now
+  - Creating a banking website/functions for the elderly who are illiterate together with my team.
+  - Creating an e-commerce website for my school assignment
 <!--
 **travelleyj/travelleyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
