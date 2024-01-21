@@ -1,6 +1,5 @@
 # Hi, this is a Short Introduction about me!
-My name is Travelle Yeo and I am a Year 2 Information Technology student at Ngee Ann Polytechnic.
-I play computer games to de-stress, and I would call it a hobby since I enjoy playing games.
+Year 2 student at Ngee Ann Poly specializing in coding, cybersecurity, and data analysis. Skilled in programming, digital security, and extracting insights from data. Passionate about applying tech knowledge in real-world scenarios.
 
 ## Programming Languages I learned
 - Python
